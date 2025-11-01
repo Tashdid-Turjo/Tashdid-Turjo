@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=80&size=35&lines=Hi%2C+I'm+Tashdid+Turjo.;Welcome+to+my+GitHub+Profile!;IC+Design+Verification+Engineer." alt="Typing SVG" />
+</h1>
+
+
 ![👋 Hi, my name is Tashdid Turjo](https://i.postimg.cc/cHX53F9Q/github-header-banner.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Tashdid-Turjo&label=Profile%20views&color=0e75b6&style=flat)
