@@ -1,21 +1,12 @@
+![👋 Hi, my name is Tashdid Turjo](https://i.postimg.cc/cHX53F9Q/github-header-banner.png)
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=80&size=35&lines=Hi%2C+I'm+Tashdid+Turjo.;Welcome+to+my+GitHub+Profile!;IC+Design+Verification+Engineer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=80&size=35&lines=IC+Design+Verification+Engineer.;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
 </h1>
 
 
-![👋 Hi, my name is Tashdid Turjo](https://i.postimg.cc/cHX53F9Q/github-header-banner.png)
-
 ![Profile views](https://komarev.com/ghpvc/?username=Tashdid-Turjo&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Tashdid Turjo
-      </h1>
-    </summary>
-  </ul>
-</div>
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/tashdid-turjo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/TashdidTurjo" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.behance.net/tashdidturjo" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/turjo19" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=flat&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codeforces.com/profile/Tashdid_Turjo" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codepen.io/Tashdid-Turjo" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://dribbble.com/tashdid-al-shafi-turjo" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/tashdid.turjo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
