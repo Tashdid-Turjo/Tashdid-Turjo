@@ -31,3 +31,28 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tashdid-Turjo&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
+
+
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+[![Tashdid-Turjo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tashdid-Turjo&bg_color=0d1117&color=ffc0cb&line=ff99aa&point=ffb6c1&area=true&hide_border=true)](https://github.com/Tashdid-Turjo/github-readme-activity-graph)
+
+
+
+
+
+
+---
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF69B4/Tashdid-Turjo" alt="GitHub chart" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tashdid-Turjo&color=blueviolet&style=flat" alt="Profile Views" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
+</p>
