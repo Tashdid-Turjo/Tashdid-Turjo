@@ -1,7 +1,7 @@
 ![👋 Hi, my name is Tashdid Turjo](https://i.postimg.cc/cHX53F9Q/github-header-banner.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=80&size=35&lines=IC+Design+Verification+Engineer.;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=80&size=35&lines=IC+Design+Verification+Engineer.;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
 </h1>
 
 
