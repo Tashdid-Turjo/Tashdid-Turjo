@@ -52,3 +52,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
 </p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tashdid-Turjo&label=Profile views&color=0e75b6&style=flat" alt="Tashdid-Turjo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tashdid-Turjo" alt="Tashdid-Turjo" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/TashdidTurjo" target="blank"><img src="https://img.shields.io/twitter/follow/TashdidTurjo?logo=twitter&style=for-the-badge" alt="TashdidTurjo" /></a> </p>
